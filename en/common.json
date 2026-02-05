@@ -11,7 +11,9 @@
     "reject": "Reject",
     "close": "Close",
     "back": "Back",
-    "next": "Next"
+    "next": "Next",
+    "discard": "Discard and Exit",
+    "finish": "Finish Registration"
   },
   "labels": {
     "name": "Name",
@@ -34,7 +36,8 @@
     "completed": "Completed",
     "rejected": "Rejected",
     "draft": "Draft",
-    "approved": "Approved"
+    "approved": "Approved",
+    "warning": "Warning"
   },
   "address": {
     "address1": "Address 1",
@@ -51,6 +54,27 @@
     "fieldRequired": "This field is required",
     "minLength3": "At least 3 characters",
     "duplicateNameError": "This name is already taken; please try a different one.",
-    "success": "Success"
+    "success": "Success",
+    "warning": "Warning"
+  },
+  "filters": {
+    "filter": "Filter",
+    "clear": "Clear",
+    "apply": "Apply",
+    "reset": "Reset",
+    "sort": "Sort",
+    "sortBy": "Sort By"
+  },
+  "pagination": {
+    "page": "Page",
+    "rowsPerPage": "Rows per page",
+    "previous": "Previous",
+    "of": "of"
+  },
+  "forms": {
+    "required": "Required",
+    "optional": "Optional",
+    "submit": "Submit",
+    "select": "Select..."
   }
 }
