@@ -1,0 +1,29 @@
+{
+    "asset": {
+        "labels": {
+            "assetName": "সম্পদের নাম",
+            "assetTag": "সম্পদ ট্যাগ",
+            "assetCategory": "সম্পদ বিভাগ",
+            "assetId": "সম্পদ আইডি",
+            "manufactureDate": "তৈরির তারিখ",
+            "assetValue": "সম্পদ মূল্য"
+        }
+    },
+    "lease": {
+        "labels": {
+            "lease": "লিজ",
+            "duration": "লিজের সময়কাল",
+            "startDate": "শুরুর তারিখ",
+            "endDate": "শেষের তারিখ",
+            "lessee": "ইজারাদার"
+        }
+    },
+    "owner": {
+        "labels": {
+            "owner": "মালিক",
+            "ownership": "মালিকানা",
+            "transferInfo": "স্থানান্তর তথ্য",
+            "history": "মালিকানার ইতিহাস"
+        }
+    }
+}

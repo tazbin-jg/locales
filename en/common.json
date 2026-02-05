@@ -1,0 +1,56 @@
+{
+  "buttons": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "approve": "Approve",
+    "reject": "Reject",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next"
+  },
+  "labels": {
+    "name": "Name",
+    "category": "Category",
+    "tag": "Tag",
+    "description": "Description",
+    "brand": "Brand",
+    "serialNumber": "Serial Number",
+    "date": "Date",
+    "status": "Status",
+    "value": "Value",
+    "barcode": "Barcode",
+    "note": "Note",
+    "document": "Document"
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "completed": "Completed",
+    "rejected": "Rejected",
+    "draft": "Draft",
+    "approved": "Approved"
+  },
+  "address": {
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "town": "Town",
+    "city": "City",
+    "county": "County",
+    "country": "Country",
+    "postCode": "Post Code"
+  },
+  "messages": {
+    "loading": "Loading...",
+    "checking": "Checking...",
+    "fieldRequired": "This field is required",
+    "minLength3": "At least 3 characters",
+    "duplicateNameError": "This name is already taken; please try a different one.",
+    "success": "Success"
+  }
+}

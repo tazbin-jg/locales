@@ -1,0 +1,56 @@
+{
+  "buttons": {
+    "save": "সেভ করুন",
+    "cancel": "বাতিল করুন",
+    "add": "যোগ করুন",
+    "edit": "সম্পাদনা",
+    "delete": "মুছে ফেলুন",
+    "view": "দেখুন",
+    "search": "অনুসন্ধান",
+    "approve": "অনুমোদন করুন",
+    "reject": "প্রত্যাখ্যান করুন",
+    "close": "বন্ধ করুন",
+    "back": "পিছনে",
+    "next": "পরবর্তী"
+  },
+  "labels": {
+    "name": "নাম",
+    "category": "বিভাগ",
+    "tag": "ট্যাগ",
+    "description": "বিবরণ",
+    "brand": "ব্র্যান্ড",
+    "serialNumber": "সিরিয়াল নম্বর",
+    "date": "তারিখ",
+    "status": "অবস্থা",
+    "value": "মূল্য",
+    "barcode": "বারকোড",
+    "note": "নোট",
+    "document": "নথি"
+  },
+  "status": {
+    "active": "সক্রিয়",
+    "inactive": "নিষ্ক্রিয়",
+    "pending": "অপেক্ষমান",
+    "completed": "সম্পন্ন",
+    "rejected": "প্রত্যাখ্যাত",
+    "draft": "খসড়া",
+    "approved": "অনুমোদিত"
+  },
+  "address": {
+    "address1": "ঠিকানা ১",
+    "address2": "ঠিকানা ২",
+    "town": "শহর",
+    "city": "শহর",
+    "county": "কাউন্টি",
+    "country": "দেশ",
+    "postCode": "পোস্ট কোড"
+  },
+  "messages": {
+    "loading": "লোড হচ্ছে...",
+    "checking": "চেক করা হচ্ছে...",
+    "fieldRequired": "এই ক্ষেত্রটি প্রয়োজনীয়",
+    "minLength3": "অন্তত ৩টি অক্ষর",
+    "duplicateNameError": "এই নামটি ইতিমধ্যে ব্যবহার করা হয়েছে; অনুগ্রহ করে অন্য একটি চেষ্টা করুন।",
+    "success": "সফল"
+  }
+}

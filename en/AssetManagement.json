@@ -1,0 +1,29 @@
+{
+    "asset": {
+        "labels": {
+            "assetName": "Asset Name",
+            "assetTag": "Asset Tag",
+            "assetCategory": "Asset Category",
+            "assetId": "Asset ID",
+            "manufactureDate": "Manufacture Date",
+            "assetValue": "Asset Value"
+        }
+    },
+    "lease": {
+        "labels": {
+            "lease": "Lease",
+            "duration": "Lease Duration",
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "lessee": "Lessee"
+        }
+    },
+    "owner": {
+        "labels": {
+            "owner": "Owner",
+            "ownership": "Ownership",
+            "transferInfo": "Transfer Info",
+            "history": "Ownership History"
+        }
+    }
+}
